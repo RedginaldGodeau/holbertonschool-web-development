@@ -11,7 +11,7 @@ HTML (HyperText Markup Language) est le langage standard utilisé pour créer et
 
 ### Création d'une page HTML à partir d'un wireframe
 
-Un wireframe est une représentation visuelle de l'agencement d'une page web. Pour créer une page HTML à partir d'un wireframe, il faut identifier les différents éléments présents sur la page et les traduire en balises HTML. Par exemple, un titre serait défini par la balise <h1>, un paragraphe par la balise <p>, etc.
+Un wireframe est une représentation visuelle de l'agencement d'une page web. Pour créer une page HTML à partir d'un wireframe, il faut identifier les différents éléments présents sur la page et les traduire en balises HTML. Par exemple, un titre serait défini par la balise `<h1>`, un paragraphe par la balise `<p>`, etc.
 
 ### Langage de balisage
 
@@ -23,7 +23,7 @@ Le DOM est une représentation en arbre de la structure d'une page HTML, qui per
 
 ### Élément / Balise et attribut
 
-Un élément ou une balise est une partie d'une page HTML délimitée par des balises ouvrantes et fermantes. Par exemple, <h1> est une balise pour un titre de premier niveau. Les attributs fournissent des informations supplémentaires sur les éléments, comme l'attribut src pour spécifier l'emplacement d'une image.
+Un élément ou une balise est une partie d'une page HTML délimitée par des balises ouvrantes et fermantes. Par exemple, `<h1>` est une balise pour un titre de premier niveau. Les attributs fournissent des informations supplémentaires sur les éléments, comme l'attribut src pour spécifier l'emplacement d'une image.
 But de chaque balise HTML
 
-Chaque balise HTML a un but spécifique. Par exemple, la balise <h1> est utilisée pour les titres de premier niveau, <p> pour les paragraphes, <img> pour les images, etc. Comprendre le but de chaque balise est essentiel pour créer une structure de page logique et sémantique.
+Chaque balise HTML a un but spécifique. Par exemple, la balise `<h1>` est utilisée pour les titres de premier niveau, `<p>` pour les paragraphes, `<img>` pour les images, etc. Comprendre le but de chaque balise est essentiel pour créer une structure de page logique et sémantique.
